@@ -1,2 +1,5 @@
 # go-eight-ball
-Eight ball app in GoLang
+Eight Ball webservice in GoLang
+
+# usage
+http://<server>:<port>/random-answer
