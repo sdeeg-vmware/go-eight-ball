@@ -2,4 +2,4 @@
 Eight Ball webservice in GoLang
 
 # usage
-http://<server>:<port>/random-answer
+http://server:port/random-answer
